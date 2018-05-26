@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: TgeisKrFiMsYHk8Fluark8zDGcE5o2ca0LtHyZAlXRARWDnHVo/KaNyvcSLoMd2scwAR7+V/ZqRm9OH0jIsTNa87Jz/k7+8bBH6iM1fHkHgOKvAZWKfdwfqOZknsLTbVAHkSIz8VrIxS0BOORutSKF6kQwfrGDBiNCqYbk/VpY0JRWlWGbpevhfm7zdhsDOx7rhOsmz4X5D7anejwcEwMlOkcOrHbwy+EbXKTZ9hfClgakroqBtsmH8nV+XnKSOESoZ6vT2RwjUKgZJ8fIdLEkQrMymP5jdUucMmI0MlGUeyc4xSAPWXziP2dlMUHsLRuiz1LVk81KrkyhUYbsOTZdnZ7Jt6RSyUUKevayGAhsXaYFbwNUG20IYx+Ue+7eZSMhc4xswIxSeLAeTJ1au5XQe0j1ynLoUQ9ufUbFJXEId7ERa6nT46JtgcUCoJDX7jnK69oDaSziGcJV0YIFmyI0uGZjVohv/Tt+4Obo59kCyrJU5DjxXQL8j2XwmQymXNeIK/7AofybcEbrX8ne8oqTyNfobACAdcObSj50okT6a7Lf68h/D56y4omys7zhKYSOg58UVHjtNUP3gkUtgJ8vlUZT9BCz6QztL89rBq4lzAT4bomWOJLs33Y8d7yjqNWVw4czZMDnmc/fPiv0ATO2XiP/3HJ1ESJPaR/zcLER8=
-  app: https://safe-ocean-19468.herokuapp.com/
+  app: https://git.heroku.com/safe-ocean-19468.git
   on:
     repo: gbarkin/test-for-recipes
